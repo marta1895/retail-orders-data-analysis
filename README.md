@@ -23,7 +23,7 @@ A single transactional table covering January 2022 – December 2023. Each row i
 ## Repository structure
 
 ```
-.
+retail-orders-data-analysis/
 ├── orders.csv                   # raw dataset from Kaggle
 ├── sales_analysis.ipynb         # Python: cleaning + load to PostgreSQL
 ├── sales_analysis.sql           # PostgreSQL: 5-question analytical EDA

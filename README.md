@@ -28,7 +28,7 @@ A single transactional table covering January 2022 – December 2023. Each row i
 ├── sales_analysis.ipynb         # Python: cleaning + load to PostgreSQL
 ├── sales_analysis.sql           # PostgreSQL: 5-question analytical EDA
 ├── Sales_analysis.twbx          # Tableau packaged workbook
-├── dashboard.png                # static export of the final dashboard
+├── dashboard.png                # Final dashboard
 └── README.md
 ```
 
